@@ -13,7 +13,8 @@ Roughly half of the models on the Hugging Face Hub have no `pipeline_tag`, the m
 
 | Path | Description |
 |---|---|
-| `266_Summer2026_Final_Report_Automatic_Pipeline_Tag_Prediction.docx` | Final project report. |
+| `266_Summer2026_Final_Report_Automatic_Pipeline_Tag_Prediction.docx` | Final project report (docx). |
+| `266_Summer2026_Final_Report_Automatic_Pipeline_Tag_Prediction.pdf` | Final project report (pdf). |
 | `00_NB_Baseline_Final.ipynb` | **Final** baseline model: TF-IDF + logistic regression training, evaluation, and error analysis. |
 | `00_NB_RoBERTa_Final.ipynb` | **Final** RoBERTa-base fine-tuning notebook (512-token truncation). |
 | `00_NB_ModernBERT_512_Tokens_Final.ipynb` | **Final** ModernBERT-base fine-tuning notebook (512-token truncation). |
